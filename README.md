@@ -13,8 +13,9 @@ LinkedIn: https://www.linkedin.com/in/manuel-colome
 **2.0 — 2026**
 
 ## DOI
-**10.5281/zenodo.22747110** (versión 2.0)  
-https://doi.org/10.5281/zenodo.22747110.
+**10.5281/zenodo.24444859** (versión 2.0)  
+https://doi.org/10.5281/zenodo.24444859  
+Versión anterior (1.0): https://doi.org/10.5281/zenodo.22747110
 
 ## Ruta del protocolo
 1. Pregunta de investigación (PECO, PICO, CoCoPop, PIRD, PFO, SPIDER) y criterios FINER.
@@ -46,7 +47,7 @@ La herramienta ofrece apoyo educativo y no sustituye la valoración metodológic
 Uso gratuito con fines educativos y no comerciales, sujeto a las condiciones de `LICENSE.txt`.
 
 ## Citación sugerida
-Colomé Hidalgo M. *Asistente de Tesis: Caja de herramientas para Tesistas de Ciencias de la Salud* [software]. Versión 2.0. Zenodo; 2026. DOI: 10.5281/zenodo.22747110. https://doi.org/10.5281/zenodo.22747110
+Colomé Hidalgo M. *Asistente de Tesis: Caja de herramientas para Tesistas de Ciencias de la Salud* [software]. Versión 2.0. Zenodo; 2026. DOI: 10.5281/zenodo.24444859. https://doi.org/10.5281/zenodo.24444859
 
 ## Derechos de autor
 © 2026 Manuel Colomé Hidalgo. Todos los derechos reservados.

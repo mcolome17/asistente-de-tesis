@@ -7,8 +7,8 @@
 **Creator:** Manuel Colomé Hidalgo  
 **ORCID:** 0000-0002-4562-6491
 
-**DOI de la versión 1.0:** 10.5281/zenodo.22747110  
-Publique esta versión con la opción **«New version»** del registro existente. Zenodo asignará un DOI específico a la versión 2.0 y conservará el DOI conceptual que agrupa todas las versiones.
+**DOI de esta versión (2.0):** 10.5281/zenodo.24444859  
+**DOI de la versión 1.0:** 10.5281/zenodo.22747110
 
 **Version:** 2.0
 
@@ -38,4 +38,4 @@ JavaScript; HTML; CSS
 Active
 
 ## Citation
-Colomé Hidalgo M. Asistente de Tesis: Caja de herramientas para Tesistas de Ciencias de la Salud [software]. Versión 2.0. Zenodo; 2026. DOI: 10.5281/zenodo.22747110.
+Colomé Hidalgo M. Asistente de Tesis: Caja de herramientas para Tesistas de Ciencias de la Salud [software]. Versión 2.0. Zenodo; 2026. DOI: 10.5281/zenodo.24444859.
