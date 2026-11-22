@@ -9,6 +9,10 @@ Asistente de Tesis es una aplicación web educativa que guía a estudiantes e in
 ORCID: https://orcid.org/0000-0002-4562-6491  
 LinkedIn: https://www.linkedin.com/in/manuel-colome
 
+## Usar en línea
+**https://mcolome17.github.io/asistente-de-tesis/**  
+Gratis, sin registro. Desde el teléfono puede instalarse como aplicación y funciona sin conexión.
+
 ## Versión
 **2.0 — 2026**
 
