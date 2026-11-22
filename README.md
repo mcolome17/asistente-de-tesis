@@ -13,9 +13,8 @@ LinkedIn: https://www.linkedin.com/in/manuel-colome
 **2.0 — 2026**
 
 ## DOI
-**10.5281/zenodo.22747110** (versión 1.0)  
-https://doi.org/10.5281/zenodo.22747110  
-Al publicar esta versión como «New version» del registro, Zenodo le asignará un DOI propio. Actualícelo después en `index.html` (constante `APP.doi`), en este README y en `CITATION.cff`.
+**10.5281/zenodo.22747110** (versión 2.0)  
+https://doi.org/10.5281/zenodo.22747110.
 
 ## Ruta del protocolo
 1. Pregunta de investigación (PECO, PICO, CoCoPop, PIRD, PFO, SPIDER) y criterios FINER.
