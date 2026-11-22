@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si utiliza este software, por favor cite esta versión."
+title: "Asistente de Tesis: Caja de herramientas para Tesistas de Ciencias de la Salud"
+type: software
+version: "2.0"
+date-released: "2026-11-22"
+doi: "10.5281/zenodo.22747110"
+url: "https://doi.org/10.5281/zenodo.22747110"
+authors:
+  - given-names: "Manuel"
+    family-names: "Colomé Hidalgo"
+    orcid: "https://orcid.org/0000-0002-4562-6491"
+abstract: >-
+  Aplicación web educativa que guía la formulación de la pregunta de
+  investigación, la selección del diseño del estudio, la orientación
+  preliminar para la revisión ética, el cálculo de tamaño muestral y el
+  plan de análisis estadístico en Ciencias de la Salud. Incluye una
+  calculadora 2×2, un verificador de ítems críticos de reporte (EQUATOR)
+  y un borrador de metodología exportable. Funciona sin conexión.
+keywords:
+  - epidemiology
+  - biostatistics
+  - research methodology
+  - research ethics
+  - sample size
+  - health sciences
+  - thesis
+  - medical education
+  - reporting guidelines
+license: "LicenseRef-Asistente-de-Tesis-Educational-NonCommercial-1.0"

@@ -1,0 +1,18 @@
+ASISTENTE DE TESIS — LICENCIA DE USO
+
+Copyright © 2026 Manuel Colomé Hidalgo. Todos los derechos reservados.
+
+Se autoriza el uso gratuito de Asistente de Tesis con fines educativos y no comerciales, siempre que se mantenga la atribución al autor.
+
+No se autoriza, sin permiso expreso del titular:
+- la venta de la aplicación o de copias de la misma;
+- su sublicenciamiento;
+- la distribución pública de versiones modificadas;
+- su incorporación a productos o servicios comerciales;
+- la eliminación u ocultamiento de los avisos de autoría, derechos de autor o licencia.
+
+La herramienta se proporciona con fines educativos y de apoyo metodológico. No sustituye la valoración metodológica o bioestadística profesional, el software estadístico especializado ni la evaluación de un Comité de Ética de Investigación cuando corresponda.
+
+La aplicación se proporciona “tal cual”, sin garantía expresa o implícita de adecuación a un propósito específico. El usuario es responsable de revisar e interpretar los resultados antes de utilizarlos en decisiones académicas, científicas, clínicas, regulatorias o éticas.
+
+Esta licencia concede derechos de uso únicamente en los términos descritos y no transfiere la titularidad de los derechos de autor ni otros derechos de propiedad intelectual.
